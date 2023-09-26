@@ -11,4 +11,4 @@
 
 ### Links
 
-- Live Site URL: [faraway-ot.netlify.app](faraway-ot.netlify.app)
+- Live Site URL: [https://faraway-ot.netlify.app](https://faraway-ot.netlify.app)
